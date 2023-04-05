@@ -66,7 +66,7 @@ hr {
 body {
   background-color: #f3f3f3;
   height: 100%;
-  background: linear-gradient(135deg, #6f6df4, #4c4af4) fixed;
+  background: linear-gradient(135deg, #454545, #ff6000) fixed;
   background-size: 100% 50%;
   background-repeat: no-repeat;
 }
